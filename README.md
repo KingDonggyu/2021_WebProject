@@ -1,5 +1,5 @@
 ### 산림 공공 빅데이터 활용 창업경진대회 (제품 및 서비스 개발 부문) - 장려 수상🥉
-<img src="https://github.com/KingDonggyu/2021_WebProject/files/7323549/default.pdf">
+<img src="https://github.com/KingDonggyu/2021_WebProject/files/7323549/default.pdf" width="300px">
 
 # SANTA 산타
 > ### ⛰ 등산 소셜게더링 서비스

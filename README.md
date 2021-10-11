@@ -1,6 +1,6 @@
 ### 산림 공공 빅데이터 활용 창업경진대회 (제품 및 서비스 개발 부문) - 장려 수상🥉
 
-<img width="670" alt="상장" src="https://user-images.githubusercontent.com/33220404/136814278-59646039-8c6b-42ae-aa50-8f9a83029d3d.png">
+<img width="443" alt="상장" src="https://user-images.githubusercontent.com/33220404/136814458-761406e5-86cf-41c8-bd3d-4952e7a35f35.png">
 
 # SANTA 산타
 > ### ⛰ 등산 소셜게더링 서비스
